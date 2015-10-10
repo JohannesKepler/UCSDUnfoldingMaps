@@ -1,6 +1,14 @@
 unfolding_app_template and UC San Diego/Coursera MOOC starter code
 ==================================================================
 
+when updating:
+git add .
+git commit -m "commit message"
+git push origin master
+
+useful functions:
+git status
+
 This is a skeleton to use Unfolding in Eclipse as well as some starter
 code for the Object Oriented Programming in Java course offered by 
 UC San Diego through Coursera.
